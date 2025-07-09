@@ -1,9 +1,10 @@
 # Tic-Tac-Toe-game
 A simple and interactive Tic Tac Toe (XO) game built using HTML, CSS, and JavaScript. This project is perfect for beginners learning basic web development concepts like DOM manipulation, event handling, and game logic.
- ![Tic-tac-toe1](https://github.com/user-attachments/assets/b3aceea1-f558-4990-8ed6-093149475758)
+ 
+![Tic-tac-toe1](https://github.com/user-attachments/assets/f2f58090-178a-410d-b883-6be99c68bbdb)
 
+![Tic-tac-toe2](https://github.com/user-attachments/assets/f9ff3ff3-d2c9-40db-9542-d1f8d86fec0d)
 
-![Tic-tac-toe2](https://github.com/user-attachments/assets/3ffa2eab-57fb-4eac-abe6-f69ca1a2a63e)
 
 🚀 Features
 Player vs Player mode
